@@ -30,7 +30,7 @@ var config = {
             description: 'Mapbox 中国的开发者们有将近一半来自于 GIS 行业，剩下的分布在互联网、设计、规划等行业，汽车、游戏等对地图美观度要求高的行业也经常出没机智的 Mapbox 的开发者哦。',
             location: {
                 center: [121.49568, 31.24217],
-                zoom: 17.84,
+                zoom: 16.35,
                 pitch: 60.00,
                 bearing: 28.00
             },
@@ -54,7 +54,7 @@ var config = {
             description: 'Mapbox 即将在 2020 年迎来 10 岁的日子！很开心在过去的一年，有 34.5% 的新伙伴开始了解 Mapbox，也感谢将近 50% 的开发者在过去的 5 年里始终允许 Mapbox 陪伴在你的身边，更震惊的是有将近 20% 的开发者已经是 5 年以上甚至 10 年以上的开发老鸟！Mapbox 只想说，余生还请多多指教！',
             location: {
                 center: [116.38831, 39.91636],
-                zoom: 17.60,
+                zoom: 15.01,
                 pitch: 60.00,
                 bearing: -41.62
             },
